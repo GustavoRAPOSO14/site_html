@@ -1,15 +1,15 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .center{
     display: flex;
     flex-wrap: wrap;
-    max-width: 1280px;
-    margin:0 auto;
-    padding:0 2%;
+    max-width: 93.7%;
+    margin:0% auto;
+    padding:0% 2%;
 }
 
 html,body{
@@ -18,23 +18,27 @@ html,body{
     overflow-x: hidden;
 }
 header{
-    padding: 20px 0;
+    padding: 1.45% 0;
+    
 }
 
 
 .logo{
     width:10%;
+    
+    
 }
 .menu{
-    padding-top: 50px;
+    padding-top: 4.1%;
     width: 50%;
     text-align: right;
+
 }
 .menu a{
     color: white;
     text-decoration: none;
     font-weight: bold;
-    margin-right: 15px;
+    margin-right: 2.46%;
     
 }
 section.sobre{
@@ -43,23 +47,23 @@ section.sobre{
 }
 .extras{
     position: absolute;
-    bottom: -500px;
-    right: -400px;
-    width: 1200px;
-    height: 1200px;
+    bottom: -76.1%;
+    right: -29.3%;
+    width: 87.85%;
+    height: 182.7%;
     
 
 }
 .texto-sobre{
-    margin-top: 100px;
+    margin-top: 8.2%;
 }
 .texto-sobre h1{
-    font-size: 30px;
+    font-size: 187.5%;
 }
 .imagem1{
     transition: all 0.5s;
     cursor: pointer;
-    margin: 50px;
+    margin: 9.2%;
 }
 .imagem1:hover{
     -webkit-transform: scale(1.5);
@@ -67,21 +71,22 @@ section.sobre{
 }
 .social{
     position: absolute;
-    right: 410px;
-    top: 80px;
+    right: 34.15%;
+    top: 6.7%;
 }
 .social img{
     display: block;
-    margin: 20px 0;
+    margin: 66.2% 0;
 }
 .clube{
-    padding-top: 50px;
+    padding-top: 4.1%;
     width: 40%;
     text-align: left;
+    
 }
 .clube h1{
     color: white;
     text-decoration: none;
     font-weight: bold;
-    margin-left: 20px;
+    margin-left: 4.05%;
 }
